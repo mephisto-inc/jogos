@@ -29,3 +29,5 @@
 - Pine by Quaternius (https://poly.pizza/m/Zt62gceKXZ)
 
 Código fonte aqui [playground/jetbrains-academy/3d-game-challenge](https://github.com/mephisto-inc/playground/tree/main/jetbrains-academy/3d-game-challenge).
+
+test
