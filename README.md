@@ -1,2 +1,2 @@
-- 3D Game Challenge -- [Jogar!](https://mephisto-inc.github.io/jogos/3d-game-challenge/)
+- [3D Game Challenge](https://github.com/mephisto-inc/jogos/tree/main/3d-game-challenge) - [Jogar!](https://mephisto-inc.github.io/jogos/3d-game-challenge/)
 -
