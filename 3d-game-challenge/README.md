@@ -1,3 +1,5 @@
+# [Jogar?](https://mephisto-inc.github.io/jogos/3d-game-challenge)
+
 # GUIA
 - 🖱️ Use o mouse para se mover — toque na tela na versão mobile. O Tode pula em direção ao seu ponteiro.
 - ⚡ Dê um duplo clique / duplo toque para usar a habilidade da sua classe (Pusher ou Dasher).
