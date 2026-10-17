@@ -29,5 +29,6 @@
 - Pine by Quaternius (https://poly.pizza/m/igSu0cPoBz)
 - Pine by Quaternius (https://poly.pizza/m/79gmlLnweB)
 - Pine by Quaternius (https://poly.pizza/m/Zt62gceKXZ)
+- Inspirado em Bizarre Brigade de ZZZ
 
 Código fonte aqui [playground/jetbrains-academy/3d-game-challenge](https://github.com/mephisto-inc/playground/tree/main/jetbrains-academy/3d-game-challenge).
