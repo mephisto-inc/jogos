@@ -1,6 +1,9 @@
+### [README in English](./README-en.md)
+
 # [Jogar?](https://mephisto-inc.github.io/jogos/3d-game-challenge)
 
 # GUIA
+
 - 🖱️ Use o mouse para se mover — toque na tela na versão mobile. O Tode pula em direção ao seu ponteiro.
 - ⚡ Dê um duplo clique / duplo toque para usar a habilidade da sua classe (Pusher ou Dasher).
 - 🃏 Escolha uma melhoria após cada wave — acumule cartas para montar a seu jogo.
@@ -9,6 +12,7 @@
 - 🐛 Tente quebrar, crashar ou travar o jogo.
 
 # CREDITOS
+
 - Small House by Jarlan Perez [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/053kskrV4U_/)
 - House by Quaternius (https://poly.pizza/m/oJJIRwv6Bo)
 - House by Quaternius (https://poly.pizza/m/L7h0SjZX2K)

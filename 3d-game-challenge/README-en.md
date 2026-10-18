@@ -1,4 +1,4 @@
-# [README em Português](./README.md)
+### [README em Português](./README.md)
 
 # [Play?](https://mephisto-inc.github.io/jogos/3d-game-challenge)
 
