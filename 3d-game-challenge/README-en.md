@@ -1,6 +1,7 @@
 ### [README em Português](./README.md)
 
 # [Play?](https://mephisto-inc.github.io/jogos/3d-game-challenge)
+# [The challenge](https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/)
 
 # GUIDE
 
@@ -13,6 +14,7 @@
 
 # CREDITS
 
+- UI with CSS/Emojis
 - Small House by Jarlan Perez [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/053kskrV4U_/)
 - House by Quaternius (https://poly.pizza/m/oJJIRwv6Bo)
 - House by Quaternius (https://poly.pizza/m/L7h0SjZX2K)
@@ -25,7 +27,7 @@
 - Pigeon by Quaternius (https://poly.pizza/m/9NGlBTpDEr)
 - Bgm loop (https://opengameart.org/content/music-loop-variations)
 - Sfx (https://opengameart.org/content/8-bit-sound-effect-pack)
-- Build a Game with an AI Coding Agent (https://academy.jetbrains.com/course/30327)
+- Floor (https://opengameart.org/content/handpainted-stone-texture)
 - Pine by Quaternius (https://poly.pizza/m/rfnxJv0Rqa)
 - Twisted Tree by Quaternius (https://poly.pizza/m/9aWlx82xUf)
 - Twisted Tree by Quaternius (https://poly.pizza/m/GVTsMmuzv7)
