@@ -1,6 +1,7 @@
 ### [README in English](./README-en.md)
 
 # [Jogar?](https://mephisto-inc.github.io/jogos/3d-game-challenge)
+# [O desafio](https://blog.jetbrains.com/education/2026/10/12/build-your-game-challenge-join-in-and-compete-for-prizes/)
 
 # GUIA
 
