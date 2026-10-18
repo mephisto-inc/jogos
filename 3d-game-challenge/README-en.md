@@ -28,7 +28,6 @@
 - Bgm loop (https://opengameart.org/content/music-loop-variations)
 - Sfx (https://opengameart.org/content/8-bit-sound-effect-pack)
 - Floor (https://opengameart.org/content/handpainted-stone-texture)
-- Build a Game with an AI Coding Agent (https://academy.jetbrains.com/course/30327)
 - Pine by Quaternius (https://poly.pizza/m/rfnxJv0Rqa)
 - Twisted Tree by Quaternius (https://poly.pizza/m/9aWlx82xUf)
 - Twisted Tree by Quaternius (https://poly.pizza/m/GVTsMmuzv7)
