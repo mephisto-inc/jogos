@@ -1,2 +1,2 @@
-- 3D Game Challenge ▶️ https://github.com/mephisto-inc/a-3d-game-challenge ▶️ https://porcelumex.itch.io/a-3d-game-challenge
+- 3D Game Challenge ▶️ https://github.com/mephisto-inc/a-3d-game-challenge
 -
